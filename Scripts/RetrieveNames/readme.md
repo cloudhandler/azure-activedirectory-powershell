@@ -1,7 +1,7 @@
 
 
 ## Step 1: Create Text File with Impacted Users
-For your security, we are not including human readable names in the Message Center notifications. To retrieve the user information in a human readable format, please copy and paste the userIds posted in the Message Center into a text editor and save the text file as "ImpactedUsers.txt". Note the file path when you save the text file, as you will need it for Step 3. 
+For your security, we are not including human readable names in the Message Center or e-mail notifications. To retrieve the user information in a human readable format, please copy and paste the userIds posted in the Message Center or in the notification e-mail into a text editor and save the text file as "ImpactedUsers.txt". Note the file path when you save the text file, as you will need it for Step 3. 
 
 >**Note:** Your Message Center notification may instruct you to contact Microsoft Support to receive the list of impacted userIds for your tenant. If so, download the text file that Microsoft Support provides and save the file as "ImpactedUsers.txt"
 
